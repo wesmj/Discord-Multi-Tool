@@ -22,31 +22,5 @@ Discord Multitool [FOR EDUCATIONAL PURPOSES]
 15. Other tools [2 Selfbots, 2 Nukers, 2 Multitools]
 
 
-# Preview
-
-![image](https://user-images.githubusercontent.com/68393764/140603967-366f9b2e-cc17-4fdb-b468-068587031134.png)
-
-
 # Requirements
 Python 3+
-
-
-# Installation
-1. Click on the green "Code" button and then click on "Download ZIP"
-2. Run setup.bat and it should install most of the modules, if it doesn't work try to manually install.
-3. Run XTool.py
-
-
-# Awesome People & Credits
-
-https://github.com/AstraaDev
-
-https://github.com/Rdimo
-
-https://github.com/Swag1400
-
-https://github.com/Buntii
-
-https://github.com/zetism
-
-H0LLOW#9910
